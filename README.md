@@ -1,8 +1,3 @@
-
-
-
-
-
 # OPIT 📚💹💸
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -15,11 +10,11 @@ Wiki pembelajaran ini dibuat untuk anggota grup opit namun siapapun bisa berkont
 © 2021 Opit Community
 
 ## Konten
- - Panduan Pemula
-	 - Istilah dalam Trading Crypto
-	 - Platform Trading
-- Referensi Buku / Bacaan
-- Sumber Referensi
+ - [Panduan Pemula](#panduan-pemula)
+	 - [Istilah dalam Trading Crypto](#istilah-dalam-trading-cryto)
+	 - [Platform Trading](#platform-trading)
+- [Referensi Buku / Bacaan](#referensi-buku--bacaan)
+- [Sumber Referensi](#sumber-referensi)
 
 ## Panduan Pemula
 ###  Istilah dalam Trading Cryto
